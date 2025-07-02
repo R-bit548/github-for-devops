@@ -2,21 +2,22 @@ git init
   270  ls -a
   271  git status
   272  git add testing.py
-  273  git status
+  
   274  git commit -m "added testing files"
   275  git config user.name R-bit548
   276  git config user.email "mayurshingnapurkar52@gmail.com"
-  277  git commit -m "added testing files"
-  278  git status
+  
+  
   279  rm testing.py
-  280  git status
+  
   281  git restore testing.py
-  282  git status
+  
   283  rm git_command.txt
   284  ls
   285  git remote add origin https://github.com/R-bit548/github-for-devops.git
   286  git remote -v
-  287  git master
-  288  git status
+  
+  
   289  git push origin master
-  290  git status
+  
+
